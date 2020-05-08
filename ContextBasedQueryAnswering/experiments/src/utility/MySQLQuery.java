@@ -8,7 +8,7 @@ public class MySQLQuery {
 	public MySQLQuery() {
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
-			this.con=DriverManager.getConnection("jdbc:mysql://localhost:3306/esperimenti_miot","root","pcpcpc");  
+			this.con=DriverManager.getConnection("jdbc:mysql://host:port/experiments_cbqa","username","password");  
 		}
 		catch (Exception e) {
 			e.printStackTrace();
