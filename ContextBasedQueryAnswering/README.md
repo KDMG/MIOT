@@ -9,6 +9,6 @@ The approach is based on novel model for devices' contexts whose main feature is
 - /experiments - includes an Eclipse Java project that has been developed to make experiments reported in submitted papers
 - /database - includes the SQL dump of the database used by the Eclipse project
 
-## Author
-Emanuele Storti - Polytechnic University of Marche
+## Contacts
+- Emanuele Storti - Polytechnic University of Marche
 e.storti@univpm.it
